@@ -1,0 +1,8 @@
+Nicknames
+Given is an array of string pairs. Every pair is a first name and a last name of a person. Your task is giving every person a unique nickname. A nickname of a person is either their first name, or their last name. To avoid any confusion, a person's nickname must not collide with neither a first name, nor a last name of any other person. For example, for the names:
+
+Alan Appleseed, James Oliver, Oliver Twister
+
+The following corresponding sequence of nicknames would be correct:
+
+Alan, James, TwisterOption
